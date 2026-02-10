@@ -1,26 +1,8 @@
-## Olá! Me chamo Lucas e esse aqui é meu GitHub. 🤙🏻
+## Me chamo Lucas e esse aqui é meu GitHub. 
 
 Sou programador especializado em Python, com a maioria dos meus repositórios voltados para dados.
 
 Sou formado em Engenharia de Produção pela FAM e também tenho formação técnica em Administração. Sempre fui fascinado por entender como as diferentes áreas de um negócio interagem e como os números podem refletir essa dinâmica. Isso me motivou a me especializar em dados, onde busco soluções para problemas e identifico novas oportunidades a partir deles, usando as ferramentas mais adequadas para cada situação.
-
-Sou uma pessoa flexível e pronta para encarar novos desafios! 📊📈
-
-### Hobbies
-Nos meus momentos livres, gosto de praticar Muay Thai, andar de skate e correr (embora atualmente esteja mais focado no Muay Thai 😄).
-
-Sinta-se à vontade para explorar meu portfólio/GitHub. ✌🏻
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasGuimaDev&show_icons=true&theme=holi"
-   
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LucasGuimaDev&show_icons=true"
-
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGuimaDev&show_icons=true" />
   
 </picture>
 <div> 
